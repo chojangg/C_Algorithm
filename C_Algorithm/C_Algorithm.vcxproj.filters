@@ -18,5 +18,8 @@
     <ClCompile Include="variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="outputFormat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
