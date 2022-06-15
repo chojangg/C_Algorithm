@@ -27,5 +27,8 @@
     <ClCompile Include="switch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="mazeCreateMazeSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
