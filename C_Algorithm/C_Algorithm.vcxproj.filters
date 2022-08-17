@@ -27,10 +27,10 @@
     <ClCompile Include="switch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="mazeCreateMazeSearch.c">
+    <ClCompile Include="StringSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StringSort.c">
+    <ClCompile Include="stringUsage.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
